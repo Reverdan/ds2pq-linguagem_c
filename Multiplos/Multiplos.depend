@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728433224 source:c:\users\rever\documents\codeblocks\multiplos\main.c
+	<stdio.h>
+	<stdlib.h>
+
